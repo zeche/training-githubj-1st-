@@ -2,3 +2,8 @@ Project: The_fantastic_Beast
 text something?
 Trail of text without message
 trail again
+
+Git is not github
+develop area
+staging area 
+local area
